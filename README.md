@@ -12,6 +12,7 @@ TUI OS is a shell environment for minimal Linux installations. It provides a mou
 - sudo privileges
 - python3 and python3-venv
 - Terminal emulator with 256-color support and mouse reporting
+- possibly gpm and 
 
 Optional dependencies (installed by the script if available, otherwise the shell falls back):
 
